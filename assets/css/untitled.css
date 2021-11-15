@@ -1,0 +1,174 @@
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 20px;
+}
+
+.col-12.col-md-6.offset-0 {
+  position: inherit;
+}
+
+strong {
+  font-size: 37px;
+}
+
+#hr-home {
+  color: #fff!important;
+  border-color: #fff;
+}
+
+.btn.btn-primary.btn-xl.js-scroll-trigger {
+  background-color: #bb9600!important;
+}
+
+#about-paragraph {
+  text-align: left;
+  font-size: 15px;
+}
+
+#About-heading {
+  text-align: left;
+  font-size: 30px;
+}
+
+#Education-heading {
+  font-weight: 600;
+}
+
+.text-white.section-heading {
+  font-weight: 600;
+}
+
+.text-white.section-heading {
+  color: black!important;
+}
+
+.nav-link.js-scroll-trigger {
+  color: #bb9600!important;
+}
+
+.navbar-brand.js-scroll-trigger {
+  color: #bb9600!important;
+}
+
+.light.my-4 {
+  color: black!important;
+}
+
+#email-link {
+  color: #bb9600!important;
+}
+
+.text-faded.mb-4 {
+  color: black!important;
+}
+
+#hr-about {
+  border-color: #000000!important;
+}
+
+#about {
+  background-color: #f6f6f6!important;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #fff;
+  border-color: #fff!important;
+}
+
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #fff!important;
+  border-color: #fff!important;
+}
+
+#h1-about {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.row {
+  margin-top: 44px;
+}
+
+#p-about {
+  font-size: 12px;
+  word-wrap: break-word;
+}
+
+a, a:hover {
+  color: #fff!important;
+}
+
+#btn-download {
+  color: #bb9600!important;
+}
+
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+#chacks-link {
+  cursor: pointer;
+  color: #bb9600!important;
+}
+
+#chacks-link:hover {
+  display: block;
+  color: #4287f5;
+  font-size: 20px;
+}
+
+#resume-heading {
+  font-weight: 600;
+}
+
+#what-i-do-heading {
+  font-weight: 600;
+}
+
+.fas.fa-pencil-ruler {
+  color: #bb9600!important;
+}
+
+svg {
+  color: #bb9600!important;
+}
+
+.fas.fa-drafting-compass {
+  color: #bb9600!important;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
+  color: #ffda44!important;
+}
+
+.btn-primary:active, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(255,218,68,.5)!important;
+}
+
+#contact-email {
+  color: #bb9600!important;
+}
+
